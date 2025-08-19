@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey ! Je suis Eliot 👋
 
-<!--
-**eliot-ovh/eliot-ovh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis actuellement en **Lycée Professionnel** et je développe mes compétences en informatique et technologie.  
 
-Here are some ideas to get you started:
+## À propos de moi
+- 🏫 Formation : Lycée Professionnel
+- 💻 Compétences : *HTML - NodeJs*
+- 📫 Contact : *contact@eliot.ovh*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projets
+Voici quelques-uns de mes projets :
+
+ Cookie Clicker : https://github.com/eliot-ovh/Cookie-Clicker ⚠️**Privé pour le moment**⚠️
+
+ LegumeTycoonV2 : https://github.com/eliot-ovh/legumetycoon2 ⚠️**Privé pour le moment**⚠️
+
+---
+
+Merci de visiter mon profil ! 🚀
