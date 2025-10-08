@@ -4,13 +4,13 @@ Je suis actuellement en **Lycée Professionnel** et je développe mes compétenc
 
 ## À propos de moi
 - 🏫 Formation : Lycée Professionnel
-- 💻 Compétences : *HTML - NodeJs*
+- 💻 Compétences : HTML - NodeJs
 - 📫 Contact : *contact@eliot.ovh*
 
 ## Projets
 Voici quelques-uns de mes projets :
 
- Cookie Clicker : https://github.com/eliot-ovh/Cookie-Clicker ⚠️**Privé pour le moment**⚠️
+ Cookie Clicker : https://github.com/eliot-ovh/Cookie-Clicker
 
  LegumeTycoonV2 : https://github.com/eliot-ovh/legumetycoon2 ⚠️**Privé pour le moment**⚠️
 
